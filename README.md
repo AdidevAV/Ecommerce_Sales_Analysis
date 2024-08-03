@@ -52,7 +52,3 @@ This Power BI dashboard provides a comprehensive analysis of eCommerce sales dat
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
